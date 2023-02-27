@@ -1,0 +1,11 @@
+{
+  "name": "renamer",
+  "version": "1.0.0",
+  "description": "Simple script for renaming multiple files with node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
